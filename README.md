@@ -1,7 +1,7 @@
 ![vaghela](https://user-images.githubusercontent.com/91899491/145231167-d08083bb-21e6-4667-96ce-182f6eb19c6a.png)
 
 <h1 align="center">Hi 👋, I'm vaghela Ajitkumar</h1>
-<h3 align="center">i am ajitkumar,currently i am studies in goverment enginnring collage rajkot.my hobby is to make beautiful website</h3>
+<h3 align="center">i am Ajitkumar,Currently i am studies in goverment enginnring collage rajkot.My hobby is to make beautiful website</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitkumar1264&anuraghazra&theme=vision-friendly-dark&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar1264&DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
