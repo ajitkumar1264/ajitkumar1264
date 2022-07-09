@@ -1,10 +1,10 @@
 ![vaghela](https://user-images.githubusercontent.com/91899491/145231167-d08083bb-21e6-4667-96ce-182f6eb19c6a.png)
 
-<h1 align="center">Hi 👋, I'm vaghela Ajitkumar</h1>
-<h3 align="center">i am Ajitkumar,Currently i am studies in Goverment Enginnring Collage Rajkot.My hobby is to make Beautiful Website</h3>
+<h1 align="left">Hi 👋, I'm vaghela Ajitkumar</h1>
+<h3 align="left" width="50" > ➡️  i am Ajitkumar,Currently i am studies in Goverment Enginnring Collage Rajkot.My hobby is to make Beautiful Website</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajitkumar075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitkumar075" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaghela ajitkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaghela ajitkumar" height="30" width="40" /></a>
@@ -24,3 +24,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitkumar1264&anuraghazra&theme=vision-friendly-dark&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajitkumar1264&DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+
+<a align="right" href="https://app.daily.dev/Ajitkumar1264"><img src="https://api.daily.dev/devcards/4bc34e0b4f434d9497af5f01b2432bfe.png?r=om8" width="200" alt="vaghela Ajitkumar's Dev Card"/></a>
+
+
+
+
